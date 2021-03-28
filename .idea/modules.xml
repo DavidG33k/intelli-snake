@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/android.iml" group="intelli-snake-master/android" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/core.iml" group="intelli-snake-master/core" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/desktop.iml" group="intelli-snake-master/desktop" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/intelli-snake-master.iml" filepath="$PROJECT_DIR$/.idea/modules/intelli-snake-master.iml" group="intelli-snake-master" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/SpeachToText/speachtotext.iml" filepath="$PROJECT_DIR$/.idea/modules/SpeachToText/speachtotext.iml" group="intelli-snake-master/speachtotext" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,2 @@
+include ':speachtotext'
+include 'desktop', 'android', 'core'
